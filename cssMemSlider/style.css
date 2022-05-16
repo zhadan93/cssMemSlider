@@ -161,7 +161,7 @@ input:nth-of-type(4):checked ~ .slider__text-content .slider__text-wrapper {
   transform: translateX(calc(3 * ((-100% + 3rem) / 4) - 3rem));
 }
 
-@media (max-width: 767px) {
+@media (max-width: 47.9rem) {
   .header {
     font-size: 0.9rem;
   }
